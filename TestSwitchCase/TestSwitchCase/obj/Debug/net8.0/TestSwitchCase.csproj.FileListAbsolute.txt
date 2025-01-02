@@ -1,0 +1,14 @@
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\bin\Debug\net8.0\TestSwitchCase.exe
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\bin\Debug\net8.0\TestSwitchCase.deps.json
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\bin\Debug\net8.0\TestSwitchCase.runtimeconfig.json
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\bin\Debug\net8.0\TestSwitchCase.dll
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\bin\Debug\net8.0\TestSwitchCase.pdb
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.AssemblyInfo.cs
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.dll
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\refint\TestSwitchCase.dll
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.pdb
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\TestSwitchCase.genruntimeconfig.cache
+C:\Users\Hii\source\repos\TestSwitchCase\TestSwitchCase\obj\Debug\net8.0\ref\TestSwitchCase.dll
