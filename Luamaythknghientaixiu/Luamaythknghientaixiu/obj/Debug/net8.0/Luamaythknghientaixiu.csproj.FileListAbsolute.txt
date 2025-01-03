@@ -1,0 +1,14 @@
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\bin\Debug\net8.0\Luamaythknghientaixiu.exe
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\bin\Debug\net8.0\Luamaythknghientaixiu.deps.json
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\bin\Debug\net8.0\Luamaythknghientaixiu.runtimeconfig.json
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\bin\Debug\net8.0\Luamaythknghientaixiu.dll
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\bin\Debug\net8.0\Luamaythknghientaixiu.pdb
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.AssemblyInfoInputs.cache
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.AssemblyInfo.cs
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.csproj.CoreCompileInputs.cache
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.dll
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\refint\Luamaythknghientaixiu.dll
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.pdb
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\Luamaythknghientaixiu.genruntimeconfig.cache
+C:\Users\Hii\source\repos\Luamaythknghientaixiu\Luamaythknghientaixiu\obj\Debug\net8.0\ref\Luamaythknghientaixiu.dll
