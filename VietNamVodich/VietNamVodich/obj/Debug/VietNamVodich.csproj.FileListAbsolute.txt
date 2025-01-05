@@ -1,0 +1,7 @@
+C:\CODE\VietNamVodich\VietNamVodich\bin\Debug\VietNamVodich.exe.config
+C:\CODE\VietNamVodich\VietNamVodich\bin\Debug\VietNamVodich.exe
+C:\CODE\VietNamVodich\VietNamVodich\bin\Debug\VietNamVodich.pdb
+C:\CODE\VietNamVodich\VietNamVodich\obj\Debug\VietNamVodich.csproj.AssemblyReference.cache
+C:\CODE\VietNamVodich\VietNamVodich\obj\Debug\VietNamVodich.csproj.CoreCompileInputs.cache
+C:\CODE\VietNamVodich\VietNamVodich\obj\Debug\VietNamVodich.exe
+C:\CODE\VietNamVodich\VietNamVodich\obj\Debug\VietNamVodich.pdb
