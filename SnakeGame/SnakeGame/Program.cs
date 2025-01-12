@@ -43,7 +43,7 @@ class SnakeGame
                 // Tăng tốc độ game dựa trên điểm số
                 if (score % 5 == 0 && gameSpeed > 30)
                 {
-                    gameSpeed -= 10;
+                    gameSpeed -= 1;
                 }
             }
 
